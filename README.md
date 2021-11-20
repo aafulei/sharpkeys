@@ -22,5 +22,5 @@ git clone https://github.com/aafulei/sharpkeys.git
 ```
 
 ```
-SharpKeys: Load keys, Write to Registr
+SharpKeys: Load keys, Write to Registry
 ```
